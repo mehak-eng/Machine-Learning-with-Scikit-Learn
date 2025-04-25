@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Scikit-Learn/sklearn-env"
+		}
+	],
+	"settings": {}
+}
